@@ -244,12 +244,10 @@ export default function Header() {
                 </div>
                 <div className="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
                   <h1 className="text-center text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-                    <span className="inline-block text-white">We add the</span>
-                    {"  "}
-                    <span className="text-indigo-200">wow factor</span>
-                    <span className="block text-white">to your property</span>
+                    <span className="block text-white">Real estate photographer in</span>
+                    <span className="block text-indigo-300">Columbus, Ohio.</span>
                   </h1>
-                  <p className="mx-auto mt-6 max-w-lg text-center text-xl text-indigo-200 sm:max-w-3xl">
+                  <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
                     Sell or rent faster with beautiful photos for your MLS
                     listing, or reach new customers and professionally showcase
                     your business online.
